@@ -1,2 +1,2 @@
-a = int(input('Enter 3-digits number: '))
-print(a % 10 + a // 10 % 10 + a // 100 % 10)
+num = int(input('Enter 3-digits number: '))
+print(f'Your sum: {num % 10 + num // 10 % 10 + num // 100 % 10}')

@@ -1,2 +1,2 @@
-s = int(input('Enter masculines qty: '))
-print(f'{s//6} {s//6*4} {s//6}')
+cranes = int(input('Enter cranes qty: '))
+print(f'{cranes//6} {cranes//6*4} {cranes//6}')
