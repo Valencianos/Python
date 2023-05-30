@@ -1,0 +1,4 @@
+Stan;A.;Malinovskii;890165423164
+Stan;A.;Malina;89032154326
+Alex;B.;Baranov;89261452361
+Serg;V.;Vasilyev;89021452874
